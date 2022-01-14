@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rive/static/css/main.54cfd859.css",
+    "main.js": "/rive/static/js/main.cec9481b.js",
+    "static/js/787.a47d70e9.chunk.js": "/rive/static/js/787.a47d70e9.chunk.js",
+    "index.html": "/rive/index.html",
+    "main.54cfd859.css.map": "/rive/static/css/main.54cfd859.css.map",
+    "main.cec9481b.js.map": "/rive/static/js/main.cec9481b.js.map",
+    "787.a47d70e9.chunk.js.map": "/rive/static/js/787.a47d70e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54cfd859.css",
+    "static/js/main.cec9481b.js"
+  ]
+}
