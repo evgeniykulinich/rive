@@ -1,18 +1,34 @@
 body {
-  box-sizing: border-box;
   margin: 0;
 }
 
 .container {
+  box-sizing: border-box;
   height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 0 40px;
-  background: #c8e041;
+  width: 100vw;
+  padding: 40px;
+  background: #e2e2e2;
 }
 
-canvas {
-  width: 90vw;
-  height: 90vh;
+.container .slick-slider .slick-list canvas {
+  width: 600px;
+  height: 600px;
+}
+.slick-prev {
+  left: 50px;
+  width: 40px;
+  height: 40px;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 50px;
+  width: 40px;
+  height: 40px;
+  z-index: 1;
+}
+
+button.slick-arrow::before {
+  color: black;
+  font-size: 40px;
 }
