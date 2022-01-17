@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/rive/static/css/main.9b59e7a3.css",
-    "main.js": "/rive/static/js/main.ffaa0e12.js",
+    "main.css": "/rive/static/css/main.1c315a58.css",
+    "main.js": "/rive/static/js/main.b9d71424.js",
     "static/js/787.a47d70e9.chunk.js": "/rive/static/js/787.a47d70e9.chunk.js",
-    "static/media/animation_mixing.riv": "/rive/static/media/animation_mixing.91996aaabd37e60f5e93.riv",
-    "static/media/character_rigging.riv": "/rive/static/media/character_rigging.a0fb551408fe367250db.riv",
-    "static/media/tiny_file_sizes.riv": "/rive/static/media/tiny_file_sizes.88a62375be89f5c1b3c6.riv",
-    "static/media/realtime_collaboration.riv": "/rive/static/media/realtime_collaboration.4badac66f0793c6385b5.riv",
-    "static/media/inverse_kinematics.riv": "/rive/static/media/inverse_kinematics.a5cb9f5ded7150623f30.riv",
-    "static/media/cloud_rendering.riv": "/rive/static/media/cloud_rendering.f728ed40eb432a10c873.riv",
     "index.html": "/rive/index.html",
-    "main.9b59e7a3.css.map": "/rive/static/css/main.9b59e7a3.css.map",
-    "main.ffaa0e12.js.map": "/rive/static/js/main.ffaa0e12.js.map",
+    "main.1c315a58.css.map": "/rive/static/css/main.1c315a58.css.map",
+    "main.b9d71424.js.map": "/rive/static/js/main.b9d71424.js.map",
     "787.a47d70e9.chunk.js.map": "/rive/static/js/787.a47d70e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b59e7a3.css",
-    "static/js/main.ffaa0e12.js"
+    "static/css/main.1c315a58.css",
+    "static/js/main.b9d71424.js"
   ]
 }
